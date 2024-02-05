@@ -33,7 +33,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/baffinvektt/proprietary/vendor/lib/hw/audio.primary.smdk4x12.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.smdk4x12.so \
     vendor/samsung/baffinvektt/proprietary/vendor/lib/hw/camera.smdk4x12.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.smdk4x12.so \
     vendor/samsung/baffinvektt/proprietary/vendor/lib/hw/gps.exynos4.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gps.exynos4.so \
-    vendor/samsung/baffinvektt/proprietary/vendor/lib/hw/sensors.smdk4x12.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.smdk4x12.so \
     vendor/samsung/baffinvektt/proprietary/vendor/lib/libETC1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libETC1.so \
     vendor/samsung/baffinvektt/proprietary/vendor/lib/libMali.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMali.so \
     vendor/samsung/baffinvektt/proprietary/vendor/lib/libUMP.so:$(TARGET_COPY_OUT_VENDOR)/lib/libUMP.so \
