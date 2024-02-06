@@ -27,7 +27,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/baffinvektt/proprietary/vendor/etc/wifi/nvram_net.txt_semcosh:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/nvram_net.txt_semcosh \
     vendor/samsung/baffinvektt/proprietary/vendor/lib/egl/egl.cfg:$(TARGET_COPY_OUT_VENDOR)/lib/egl/egl.cfg \
     vendor/samsung/baffinvektt/proprietary/vendor/lib/egl/libEGL_mali.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libEGL_mali.so \
-    vendor/samsung/baffinvektt/proprietary/vendor/lib/egl/libGLES_android.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libGLES_android.so \
     vendor/samsung/baffinvektt/proprietary/vendor/lib/egl/libGLESv1_CM_mali.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libGLESv1_CM_mali.so \
     vendor/samsung/baffinvektt/proprietary/vendor/lib/egl/libGLESv2_mali.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libGLESv2_mali.so \
     vendor/samsung/baffinvektt/proprietary/vendor/lib/hw/audio.primary.smdk4x12.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.smdk4x12.so \
